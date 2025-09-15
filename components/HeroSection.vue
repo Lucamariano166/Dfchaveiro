@@ -1,0 +1,20 @@
+<template>
+  <section 
+    class="bg-black text-white relative h-64 md:h-96 bg-no-repeat bg-center bg-contain"
+    style="background-image: url('/logo2.png');"
+  >
+    <!-- Conteúdo no canto inferior direito -->
+    <div class="absolute bottom-4 right-4 md:bottom-6 md:right-6 text-right max-w-xs">
+      <h1 class="text-lg md:text-xl font-bold mb-1">🔑 Chaveiro 24horas</h1>
+      <p class="text-[10px] md:text-xs mb-2 text-gold">Atendimento rápido e de confiança</p>
+      <div class="flex justify-end gap-2">
+        <a href="https://wa.me/5561998784188?text=Olá%20DfChaveiro%2C%20preciso%20de%20ajuda%20urgente" target="_blank" class="bg-green-500 px-3 py-2 rounded text-sm md:text-base">
+          📲
+        </a>
+        <a href="tel:+5561998784188" class="bg-white text-blue-700 px-3 py-2 rounded text-sm md:text-base">
+          📞
+        </a>
+      </div>
+    </div>
+  </section>
+</template>
