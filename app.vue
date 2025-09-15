@@ -6,8 +6,8 @@
 
     <main class="flex-1">
       <HeroSection />
-      <ServicesSection />
       <AboutSection />
+      <ServicesSection />
       <GallerySection />
       <ContactSection />
       <FooterSection />
