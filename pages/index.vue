@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  title: 'Chaveiro 24h - Serviços em Geral',
+  title: 'DfChaveiro - Serviços em Geral',
   meta: [
     { name: 'description', content: 'Chaveiro 24 horas, carimbos, chaves codificadas, relojoeiro, controles de portão e assistência técnica para celular.' },
     { property: 'og:title', content: 'Chaveiro 24h - Serviços em Geral' },

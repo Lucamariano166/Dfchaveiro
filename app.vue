@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen flex flex-col">
     <header class="bg-black text-white p-4 text-center font-bold">
-      Chaveiro 24h
+      DfChaveiro - Serviços em Geral
     </header>
 
     <main class="flex-1">
@@ -15,7 +15,7 @@
 
     <!-- Botão flutuante do WhatsApp -->
     <a
-      href="https://wa.me/5561998784188?text=Olá%20DfChaveiro%2C%20preciso%20de%20ajuda%20urgente"
+      href="https://wa.me/5561996194189?text=Olá%20DfChaveiro%2C%20preciso%20de%20ajuda%20urgente"
       target="_blank"
       class="fixed bottom-6 right-6 bg-green-500 hover:bg-green-600 w-14 h-14 rounded-full flex items-center justify-center shadow-lg transition-transform transform hover:scale-110"
       aria-label="WhatsApp"

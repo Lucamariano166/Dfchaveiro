@@ -24,8 +24,10 @@ const services = [
     desc: `Abertura de portas residenciais, comerciais e automotivas.
 
 Cópia de chaves comuns e especiais.
+Serviços de
+instalação e troca de fechadura, confecção de chaves perdidas.
 
-Serviço emergencial 24 horas, rápido e seguro.` 
+Serviço emergencial 24 horas, rápido e seguro, com profissionais experientes e atendimento de qualidade.` 
   },
   { 
     title: "🖋️ Carimbos Personalizados", 
@@ -53,13 +55,17 @@ Substituição em caso de perda da chave original.`
     title: "⌚ Relojoeiro Especializado", 
     desc: `Conserto e manutenção de relógios de todos os tipos.
 
-Troca de baterias, ajustes e revisões completas.
+troca de baterias, pinos e pulseiras.
+
+ajustes e revisões completas.
 
 Atendimento com precisão e cuidado.` 
   },
   { 
     title: "🚪 Controles de Portão", 
     desc: `Venda e manutenção de controles de portão eletrônico.
+    
+troca de baterias, botões e limpeza.
 
 Programação e substituição rápida.
 

@@ -2,8 +2,8 @@
   <section class="py-12 px-6 text-center">
     <h2 class="text-2xl font-bold mb-4">Fale Conosco</h2>
     <p class="mb-4">📍 Endereço: Rua Exemplo, 123 - Cidade/UF</p>
-    <p class="mb-6">📞 Telefone:  (61) 9878-4188</p>
-    <a href="https://wa.me/5561998784188?text=Olá%20DfChaveiro%2C%20preciso%20de%20ajuda%20urgente" target="_blank" class="bg-green-500 text-white px-6 py-3 rounded-lg shadow-lg text-lg">
+    <p class="mb-6">📞 Telefone:  (61) 99619-4189</p>
+    <a href="https://wa.me/5561996194189?text=Olá%20DfChaveiro%2C%20preciso%20de%20ajuda%20urgente" target="_blank" class="bg-green-500 text-white px-6 py-3 rounded-lg shadow-lg text-lg">
       Falar no WhatsApp
     </a>
     <div class="mt-8">
