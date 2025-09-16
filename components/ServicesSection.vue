@@ -1,6 +1,6 @@
 <template>
   <section class="py-12 px-6 bg-gray-100">
-    <h2 class="text-2xl md:text-3xl font-bold text-center mb-8">Nossos Serviços</h2>
+    <h2 class="text-2xl md:text-3xl font-bold text-center mb-8">Nossos Serviços - Chaveiro 24 horas e Assistência Técnica em Brasília</h2>
 
     <div class="grid md:grid-cols-3 gap-6">
       <div 
@@ -21,63 +21,59 @@
 const services = [
   { 
     title: "🔑 Chaveiro 24hrs", 
-    desc: `Abertura de portas residenciais, comerciais e automotivas.
+    desc: `Serviços de chaveiro 24h em Brasília, com abertura de portas residenciais, comerciais e automotivas.
 
-Cópia de chaves comuns e especiais.
-Serviços de
-instalação e troca de fechadura, confecção de chaves perdidas.
+Cópia de chaves comuns, especiais e codificadas.
 
-Serviço emergencial 24 horas, rápido e seguro, com profissionais experientes e atendimento de qualidade.` 
+Instalação e troca de fechaduras, confecção de chaves perdidas.
+
+Atendimento emergencial 24 horas, rápido e seguro, com profissionais experientes e confiáveis.` 
   },
   { 
     title: "🖋️ Carimbos Personalizados", 
-    desc: `Produzimos carimbos personalizados de alta qualidade, ideais para empresas, profissionais liberais e uso pessoal.
+    desc: `Produção de carimbos personalizados para empresas, profissionais liberais e uso pessoal em Brasília.
 
-Trabalhamos com diferentes modelos (automáticos, de bolso, madeira e datadores), sempre com gravação nítida e duradoura.
+Trabalhamos com diferentes modelos: automáticos, de bolso, madeira e datadores, sempre com gravação nítida e duradoura.
 
-👉 Nossos carimbos podem conter:
-• Logotipo da sua empresa
+Nossos carimbos podem incluir:
+• Logotipo da empresa
 • Nome e cargo profissional
 • CNPJ, endereço e contatos
 • Mensagens personalizadas
 
-Com rapidez e precisão, garantimos que seu carimbo personalizado atenda perfeitamente às suas necessidades do dia a dia, unindo praticidade e identidade visual.` 
+Entrega rápida e precisão garantida, unindo praticidade e identidade visual.` 
   },
   { 
     title: "🔒 Chaves Codificadas", 
-    desc: `Chaves canivete e codificadas para veículos.
+    desc: `Serviço de chaves codificadas para veículos em Brasília.
 
 Programação e reprogramação de chaves automotivas.
 
-Substituição em caso de perda da chave original.` 
+Substituição em caso de perda da chave original, garantindo segurança e praticidade.` 
   },
   { 
     title: "⌚ Relojoeiro Especializado", 
     desc: `Conserto e manutenção de relógios de todos os tipos.
 
-troca de baterias, pinos e pulseiras.
+Troca de baterias, pinos e pulseiras.
 
-ajustes e revisões completas.
-
-Atendimento com precisão e cuidado.` 
+Ajustes e revisões completas com precisão e cuidado.` 
   },
   { 
     title: "🚪 Controles de Portão", 
-    desc: `Venda e manutenção de controles de portão eletrônico.
-    
-troca de baterias, botões e limpeza.
+    desc: `Venda, manutenção e programação de controles de portão eletrônico em Brasília.
 
-Programação e substituição rápida.
+Troca de baterias, botões e limpeza.
 
-Serviço técnico confiável e seguro.` 
+Serviço técnico rápido, confiável e seguro.` 
   },
   { 
     title: "📱 Assistência Técnica Celular", 
-    desc: `Serviços completos para celulares e tablets.
+    desc: `Serviços completos de assistência técnica para celulares e tablets em Brasília.
 
-Troca de tela, bateria, manutenção e acessórios.
+Troca de tela, bateria, manutenção geral e venda de acessórios.
 
-Atendimento rápido e com garantia de qualidade.` 
+Atendimento rápido, com garantia de qualidade e segurança.` 
   }
 ]
 </script>
