@@ -1,6 +1,6 @@
 <template>
   <section class="py-12 px-6 bg-gray-100">
-    <h2 class="text-2xl md:text-3xl font-bold text-center mb-8">Nossos Serviços - Chaveiro 24 horas e Assistência Técnica em Brasília</h2>
+    <h2 class="text-2xl md:text-3xl font-bold text-center mb-8 text-gold">Nossos Serviços</h2>
 
     <div class="grid md:grid-cols-3 gap-6">
       <div 

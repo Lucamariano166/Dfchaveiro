@@ -1,6 +1,6 @@
 <template>
   <section class="py-12 px-4 bg-gray-100">
-    <h2 class="text-2xl font-bold text-center mb-6">Galeria de Fotos</h2>
+    <h2 class="text-2xl font-bold text-center mb-6 text-gold">Galeria de Fotos</h2>
 
     <div class="grid grid-cols-3 md:grid-cols-4 gap-2">
       <div
