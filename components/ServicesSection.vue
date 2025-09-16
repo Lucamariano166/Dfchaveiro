@@ -6,11 +6,11 @@
       <div 
         v-for="(service, i) in services" 
         :key="i" 
-        class="bg-white p-6 rounded-xl shadow transition-transform transform hover:-translate-y-2 hover:shadow-xl"
+        class="bg-white p-6 rounded-xl shadow transition-transform transform hover:-translate-y-2 hover:shadow-xl text-justify "
       >
         <h3 class="font-semibold text-lg mb-2">{{ service.title }}</h3>
-        <div class="text-gray-700 text-sm space-y-2">
-          <p v-for="(paragraph, idx) in service.desc.split('\n\n')" :key="idx">{{ paragraph }}</p>
+        <div class="text-gray-700 text-sm space-y-2 text-justify ">
+          <p class="text-justify " v-for="(paragraph, idx) in service.desc.split('\n\n')" :key="idx">{{ paragraph }}</p>
         </div>
       </div>
     </div>
